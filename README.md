@@ -46,7 +46,7 @@ Here are some of the notable projects included in my portfolio:
 
 - Description: This project showcases my personal portfolio website. It presents my skills, education, and projects to highlight my experience and capabilities.
 - Technologies Used: This website is built using HTML5 , CSS3 , Sass , Media Query and jQuery are used in the project.
-- GitHub Repository: https://github.com/Vedant-Patel-06
+- GitHub Repository: https://github.com/Vedant-Patel-06/My-Portfolio
 
 - Feel free to explore the repository and check out my portfolio website to learn more about my work and experience.
 
