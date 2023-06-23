@@ -40,7 +40,7 @@ Here are some of the notable projects included in my portfolio:
 
 - Description: This repository is for our restaurant website! It presents our restaurant's information, menu, and online reservation system.
 - Technologies Used: This project showcases a responsive website built using HTML5, CSS3, Sass, Media Query, jQuery, and Bootstrap.
-- GitHub Repository: https://github.com/Vedant-Patel-06/Resturant
+- GitHub Repository: https://github.com/Vedant-Patel-06/Resturant/tree/master
 
 # 4. My Portfolio:
 
